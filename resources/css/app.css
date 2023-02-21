@@ -1,0 +1,16 @@
+
+html, body{
+    padding: 15px;
+}
+li{
+    color: blue;
+    list-style: circle;
+}
+li:hover{
+    color: blueviolet;
+}
+
+.active{
+    font-weight: bold;
+    color: red;
+}
